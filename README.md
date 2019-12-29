@@ -1,3 +1,3 @@
 # rocketseat-desafios-js
 
-Resolução dos desfios propostos durante o Curso da Rocketseat.
+Resolução dos desafios propostos durante o Curso da Rocketseat.
